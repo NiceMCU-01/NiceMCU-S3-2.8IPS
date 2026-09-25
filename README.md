@@ -1,6 +1,7 @@
 # NiceMCU-S3-2.8IPS
 
 NiceMCU-S3-2.8IPS 开发板的小智 AI 固件工程，基于 ESP32-S3（16 MB Flash / 8 MB Octal PSRAM）和 2.8 英寸 ST7789 屏幕。
+如果需要红外功能请自己添加红外库：https://site.irext.net/index.html
 
 ## 克隆项目
 
